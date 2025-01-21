@@ -4,7 +4,7 @@
 
 ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechRex&layout=compact)](https://github.com/Christmas/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechRex)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechRex&show_icons=true&theme=tokyonight)
 
