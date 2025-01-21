@@ -6,6 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechRex)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechRex&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechRex&show_icons=true)
 
 
